@@ -2,6 +2,10 @@
 
 This is a presentation given at [Linux Foundation Open IoT Summit 2016](http://events.linuxfoundation.org/events/openiot-summit/program/agenda) called Change the World with IoT and the Peer Web about the [Thali Project](http://thaliproject.org) at Microsoft.  The presentation can be found at [open-iot-2016.pdf](open-iot-2016..pdf)
 
+## ABSTRACT
+
+Lots of new social networks are coming online seemingly every day, with new ways of sharing data with our friends. But, have you ever thought, when I share this data, who now owns it? And what are they going to do with it? Why can’t I have greater control? Enter [Thali](http://thaliproject.org), an experimental open source platform fora creating peer web applications on your devices where YOU own the data. Today, you can build applications using Thali, to create new experiences to share data with your friends, without requiring any internet connection at all, instead will be synced peer to peer via Bluetooth, WiFi direct or other technologies. We'll talk about who is using it and why in the industry. And best of all, you can create them on iOS and Android today and submit them to the App Store or Google Play and make the peer web great again!
+
 ## RESOURCES
 
 Here are some resources about Thali:
